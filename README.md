@@ -11,10 +11,10 @@ windows:
 ngrok.bat domain
 ```
 
-linux:
+linux or mac:
 
 ```
-sh ngrok.sh domain
+./ngrok.sh domain
 ```
 
 Then ngrok will run as domain `domain.tunnel.2bdata.com`
